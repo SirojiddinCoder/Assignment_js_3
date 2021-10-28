@@ -36,9 +36,18 @@
 
 
 //  1 dan 100  gacha juft sonlar
+// for (let i = 1; i <=100; i++)
+//  {
+// 	 if( i%2== 0)
+// 	 console.log(i);
+
+// }
+
+
+//  1 dan 100  gacha toq sonlar
 for (let i = 1; i <=100; i++)
  {
-	 if( i%2== 0)
+	 if( i%2== 1)
 	 console.log(i);
 
 }
