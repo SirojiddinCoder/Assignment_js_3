@@ -73,3 +73,43 @@
 
 // console.log(`juftlari yig'indi: ${jcount}`)
 // console.log(`toqlari yig'indi: ${tcount}`)
+
+
+
+
+// var title = "welcome webbrain";
+// title = title.repeat(5);
+// counterWe = 0;
+// counterA = 0;
+// counterB = 0;
+
+
+// const we = (text) => {
+//     var inde = parseInt(text.indexOf('we'));
+//     counterWe++;
+//     text = text.slice(inde + 2);
+//     text.includes('we') && we(text);
+//     text.includes("we") == false && console.log(counterWe);
+// }
+
+// const b = (text) => {
+//     var inde = text.indexOf('b');
+//     counterB++;
+//     text = text.slice(inde + 1);
+//     text.includes('b') && b(text);
+//     text.includes("b") == false && console.log(counterB);
+// }
+
+
+// const wordA = (text) => {
+//     var inde = text.indexOf('a');
+//     counterA++;
+//     text = text.slice(inde + 1);
+//     text.includes('a') && wordA(text);
+//     text.includes('a') == false && console.log(counterA);
+// }
+
+
+// we(title);
+// b(title);
+// wordA(title);
