@@ -45,9 +45,31 @@
 
 
 //  1 dan 100  gacha toq sonlar
-for (let i = 1; i <=100; i++)
- {
-	 if( i%2== 1)
-	 console.log(i);
+// for (let i = 1; i <=100; i++)
+//  {
+// 	 if( i%2== 1)
+// 	 console.log(i);
 
-}
+// }
+
+
+
+
+//  1 dan 100  gacha toq orindagi va juft orindagi sonlar yigindisi
+// let a='192080124184614';
+// let arr=a.split("");
+// let jcount=0;
+// let tcount=0;
+
+
+// console.log(arr.length)
+// for(let i = 0;i<arr.length;i++){
+//     if(i%2===0){
+//         jcount+=parseInt(arr[i])
+//     }else(
+//         tcount+=parseInt(arr[i])
+//         )
+// }
+
+// console.log(`juftlari yig'indi: ${jcount}`)
+// console.log(`toqlari yig'indi: ${tcount}`)
