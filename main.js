@@ -27,8 +27,8 @@
 // }
 
 
-//  1 dan 100 gacha sonlar teskari tartibda
-for (let i = 100; i >=0; i--)
+//  1 dan 10 gacha sonlar teskari tartibda
+for (let i = 10; i >=0; i--)
  {
      	console.log(i);
 
