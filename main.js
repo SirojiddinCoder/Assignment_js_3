@@ -28,8 +28,17 @@
 
 
 //  1 dan 10 gacha sonlar teskari tartibda
-for (let i = 10; i >=0; i--)
+// for (let i = 10; i >=0; i--)
+//  {
+//      	console.log(i);
+
+// }
+
+
+//  1 dan 100  gacha juft sonlar
+for (let i = 1; i <=100; i++)
  {
-     	console.log(i);
+	 if( i%2== 0)
+	 console.log(i);
 
 }
